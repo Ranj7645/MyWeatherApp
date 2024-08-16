@@ -31,3 +31,10 @@ Testing and Deployment:
 Test the application for different cities and weather conditions.
 Deploy the application on a web server like Apache To
 Technologies Used:
+
+Screen Shots:
+
+![Screenshot 2024-08-16 221446](https://github.com/user-attachments/assets/d99b12f0-0fcb-4275-83bd-e69503cd9527)
+![image](https://github.com/user-attachments/assets/9a074757-ab8c-44c1-bac8-e2ab350fcb40)
+
+
